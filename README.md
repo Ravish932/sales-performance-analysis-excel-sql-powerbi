@@ -1,6 +1,6 @@
 # Sales Performance Analysis using SQL Server & Power BI
 
-This project explores a retail sales dataset using Excel for data exploration SQL  for data cleaning and answer some buisnees question  and Power BI for visualizations. The goal is to extract actionable business insights across countries, products, and sales teams.
+This project explores a retail sales dataset using Excel for data exploration, SQL for data cleaning and answer some buisnees question and Power BI for visualizations. The goal is to extract actionable business insights across countries, products, and sales teams.
 
 
 ## Dashboard Preview
